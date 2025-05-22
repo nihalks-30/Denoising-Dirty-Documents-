@@ -74,7 +74,7 @@ A simple Convolutional Autoencoder was used:
 
 | Noisy Image | Denoised Image |
 |-------------|----------------|
-| ![Noisy](image.png) | 
+| ![Noisy](input_image_1.png) | 
 
 
 
